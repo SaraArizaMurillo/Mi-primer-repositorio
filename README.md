@@ -1,7 +1,6 @@
 # Mi-primer-repositorio
 testeando github
 
-****
 
 **Estoy probando typora**
 
@@ -9,4 +8,4 @@ testeando github
 
 2. segunda parte
 
-   
+3. tercera parte
